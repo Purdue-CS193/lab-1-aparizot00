@@ -1,4 +1,4 @@
-#Alexander Parizot's first CS193 Lab
+# Alexander Parizot's first CS193 Lab
 
 * This lab was easy
 * It's conveniently timed
